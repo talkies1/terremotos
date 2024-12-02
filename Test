@@ -1,0 +1,69 @@
+{
+  "terremotos": [
+    {
+      "mag": 2.7,
+      "place": "18 Km al S de Calama",
+      "time": 2024-12-02
+    },
+    {
+      "mag": 4.3,
+      "place": "35 Km al NE de Pica",
+      "time": 2024-10-16
+    },
+    {
+      "mag": 6.8,
+      "place": "96 Km al SE de Socaire",
+      "time": 2024-05-06
+    },
+    {
+      "mag": 2.8,
+      "place": "13 Km al SE de Calama",
+      "time": 2024-12-16
+    },
+    {
+      "mag": 2.6,
+      "place": "108 Km al SE de El Salvador",
+      "time": 2024-12-08
+    },
+    {
+      "mag": 3.0,
+      "place": "34 Km al N de Cabo Raper",
+      "time": 2024-12-09
+    },
+    {
+      "mag": 3.5,
+      "place": "83 Km al SE de Socaire",
+      "time": 2024-05-02
+    },
+    {
+      "mag": 2.6,
+      "place": "61 Km al NO de Puerto Cisnes",
+      "time": 2024-01-12
+    },
+    {
+      "mag": 5.2,
+      "place": "43 Km al N de Diego de Almagro",
+      "time": 2024-11-20
+    },
+    {
+      "mag": 3.0,
+      "place": "71 Km al E de Socaire",
+      "time": 2024-12-10
+    },
+    {
+      "mag": 2.5,
+      "place": "35 Km al E de Sierra Gorda",
+      "time": 2024-09-15
+    },
+    {
+      "mag": 3.3,
+      "place": "56 Km al NO de San Antonio de los Cobres",
+      "time": 2024-12-10
+    },
+    {
+      "mag": 1.2,
+      "place": "30 Km al O de Iquique",
+      "time": 2024-10-06
+    }
+  ]
+}
